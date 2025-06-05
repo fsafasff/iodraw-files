@@ -1,0 +1,33 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="StX_J-8mmEkoyjBKdxyl">
+    <mxGraphModel dx="1954" dy="853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="" 是="" id="nQkmTGZ4ZR4Yy8le2ws_-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+            <mxGeometry x="-114" y="271" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nQkmTGZ4ZR4Yy8le2ws_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="647" y="278" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQkmTGZ4ZR4Yy8le2ws_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nQkmTGZ4ZR4Yy8le2ws_-4" target="nQkmTGZ4ZR4Yy8le2ws_-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nQkmTGZ4ZR4Yy8le2ws_-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-107" y="122" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQkmTGZ4ZR4Yy8le2ws_-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="149" y="271" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQkmTGZ4ZR4Yy8le2ws_-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="436" y="276" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQkmTGZ4ZR4Yy8le2ws_-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="282" y="133" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
