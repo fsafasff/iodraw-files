@@ -19,7 +19,7 @@
         <mxCell id="Sphe2M8NKCFDHW2IZUOK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);labelBackgroundColor=#000000;fontColor=#FFFFFF;" edge="1" parent="1" source="Sphe2M8NKCFDHW2IZUOK-6" target="Sphe2M8NKCFDHW2IZUOK-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sphe2M8NKCFDHW2IZUOK-6" value="模型选择" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Sphe2M8NKCFDHW2IZUOK-6" value="模型选择" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-241" y="208" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sphe2M8NKCFDHW2IZUOK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);labelBackgroundColor=#000000;fontColor=#FFFFFF;" edge="1" parent="1" source="Sphe2M8NKCFDHW2IZUOK-9" target="Sphe2M8NKCFDHW2IZUOK-13">
@@ -30,34 +30,37 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sphe2M8NKCFDHW2IZUOK-9" value="模型存在泛化能力不足的问题" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Sphe2M8NKCFDHW2IZUOK-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sphe2M8NKCFDHW2IZUOK-9" target="Sphe2M8NKCFDHW2IZUOK-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sphe2M8NKCFDHW2IZUOK-9" value="模型存在泛化能力不足的问题" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="191" y="268" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sphe2M8NKCFDHW2IZUOK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);labelBackgroundColor=#000000;fontColor=#FFFFFF;" edge="1" parent="1" source="Sphe2M8NKCFDHW2IZUOK-11" target="Sphe2M8NKCFDHW2IZUOK-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sphe2M8NKCFDHW2IZUOK-11" value="数据集处理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Sphe2M8NKCFDHW2IZUOK-11" value="数据集处理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="403" y="446" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sphe2M8NKCFDHW2IZUOK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);labelBackgroundColor=#000000;fontColor=#FFFFFF;" edge="1" parent="1" source="Sphe2M8NKCFDHW2IZUOK-13" target="Sphe2M8NKCFDHW2IZUOK-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sphe2M8NKCFDHW2IZUOK-13" value="提出基于指令增强的微调方法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Sphe2M8NKCFDHW2IZUOK-13" value="提出基于指令增强的微调方法" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="403" y="268" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sphe2M8NKCFDHW2IZUOK-14" value="模型微调" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Sphe2M8NKCFDHW2IZUOK-14" value="模型微调" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-51" y="275" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sphe2M8NKCFDHW2IZUOK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);labelBackgroundColor=#000000;fontColor=#FFFFFF;" edge="1" parent="1" source="Sphe2M8NKCFDHW2IZUOK-16" target="Sphe2M8NKCFDHW2IZUOK-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sphe2M8NKCFDHW2IZUOK-16" value="数据集处理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Sphe2M8NKCFDHW2IZUOK-16" value="数据集处理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-241" y="351" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sphe2M8NKCFDHW2IZUOK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);labelBackgroundColor=#000000;fontColor=#FFFFFF;" edge="1" parent="1" source="Sphe2M8NKCFDHW2IZUOK-18" target="Sphe2M8NKCFDHW2IZUOK-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sphe2M8NKCFDHW2IZUOK-18" value="基于处理后的数据集构造增强指令" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Sphe2M8NKCFDHW2IZUOK-18" value="基于处理后的数据集构造增强指令" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="198" y="446" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sphe2M8NKCFDHW2IZUOK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.027;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#000000);labelBackgroundColor=#000000;fontColor=#FFFFFF;" edge="1" parent="1" source="Sphe2M8NKCFDHW2IZUOK-14" target="Sphe2M8NKCFDHW2IZUOK-9">
@@ -76,10 +79,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sphe2M8NKCFDHW2IZUOK-23" value="使用增强指令对模型进行指令微调" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;strokeColor=light-dark(#000000,#000000);labelBackgroundColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Sphe2M8NKCFDHW2IZUOK-23" value="使用增强指令对模型进行指令微调" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;strokeColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-27" y="446" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sphe2M8NKCFDHW2IZUOK-24" value="模型泛化能力有所提升" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Sphe2M8NKCFDHW2IZUOK-24" value="模型泛化能力有所提升" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-258" y="446" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sphe2M8NKCFDHW2IZUOK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);labelBackgroundColor=#000000;fontColor=#FFFFFF;" edge="1" parent="1" source="Sphe2M8NKCFDHW2IZUOK-26" target="Sphe2M8NKCFDHW2IZUOK-11">
@@ -87,6 +90,9 @@
         </mxCell>
         <mxCell id="Sphe2M8NKCFDHW2IZUOK-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#000000;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEs0lEQVR4nO1ZWYgcVRStiXHBDRRcENcfP0RcYhA3DLiAW2am7utSE5cBl9GZureGuOASoQOC/qjgR9yCIIpbRDAfGSOiGAmoRGKQKGKMMYlRUYMSNSKZO0deTfd0dXUtXdU9EwJ94f29V++cd/dbjtOTnvSkJz3Zn8UVnGhY1143jEP3NRbn5ntxmGEsItGVRnS7Yd1LrHsowHDaGeKJqpFJuILKjAHzRnG866PfiD5qWJ83om9YkMT6ohFdRgwm1teJ9W8LJrpIdHm1ijmpBEQ31fZt8gTHdBE2+ijANUb0/TiodheJ/jk8jAOzbiHRvxpnrNZw54Iq5uahI8YjxLoh1S5J9OOywCOA/um/H0ekgahWMYdYNYH4evduHJtmDST6QriX9Y+WDSbA5Ub0987B18CwvpNFwrDuSDzL+lb4mD6uNKKrjOhOq9HYA61rZhfgvGaVdmmxbvUY5yeaguh4ypm9hvWZnO8+Of2hgRGcRKI/dx18wyz+JcYNrRrAorLfdAOcWfsM+oj1vZkCHzEnrQjuiBK4SnBwPRIV1OrqhhoZgzMNvrF00kaamN+dZR2+APgd/T5OiNrh+tkjMKUJYtzeRMLHfMP6UxtnNwyM4dQY+9kDHyVhBH5TEBnDORn7v6gw7mrJKyRY2vQyopttbUKsn9rQNeNERJ+1JUgYMgWVVuB40FuCo5MiWC0K6LuNj2FhS5gbxSnkYzGxvmTrmpkhojtJMGJE17TaO65OBV+z/+/rm13BBVl7F4/gKMNYkpp8kl94wgQYchln25rJsP5SjBwuyiYQeVXyYZw2xBvF4ST6VJhs8m39P+uwnuAMe3ZhgOOM6MZ2/eQmwZF5GpiImNA9TgFxfcwj1m25YFg/IdZd9ZK5Vs/kJ03Wb3NBEOuvEXWvLEIgAiYzDLsCCYMC62PT5BmXJRVyMd94NZ+A6JdRZ7JZuSgJ2021V3br47G7X8v2H9ySTyBWQng+LnRKiK04ifXzHIfeHLVp18e8LPtPK6mbxIg+EbtkuVNSvAAnE+tvOXb9tRHcVms9xzO0taatS1vqINbdmYkjR1zGtcXC5GSy3wRw27bf1l5WlzkdyHTHVHIR6zfttJXRC1+Ja8Fm4LIEQn+IJMjiBDBY6ELbLZW2wRQhxsXtJDrT6uhvl7pwqu9sCWMPZZ0ZGsIhWZoyjIcLms620qMVj3FaQtM8mRWLbTlcM7m1SeHXTh3aHcuQ9UMf80uBjwC6PkGlE+RjLJF0gEuicZtEn66XxnUJax/WLTlmM2EHZ043hESfS3mhFUnjEWL9KB5BbJMU3TPo4/TsKlTXZY1eConn4QDD+nLiRaxbbXyOdkW2PEgguyfevIckRH9IJcG62zY3tivrmERtYrYiw1532ckdiX4WNunpoFZHRh/1UvqDXJ9g/bBjEuGoRbA0Wm6XXqxbbHi0g+GwswtzhG7PMKmNZYrK1HhOrF91TKLhsONToRJ9RnBuJcCNRnCfETxgoxoxrvCqOMjpptgPhiGzQCuZoIXvbAHn7EtZUMVcIxiwdXxu1TnlKz8S65vW8QvVNrMlNvnZqUGFcav9C2OXNQkaxaV2RD9rQHrSk544+638DxvdJEmGXJLhAAAAAElFTkSuQmCC;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="439" y="560" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Sphe2M8NKCFDHW2IZUOK-27" value="模型存在泛化能力不足的问题" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="391" y="268" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
